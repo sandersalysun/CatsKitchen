@@ -1,0 +1,165 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+#header {
+	background: #b7dce4;
+	height: 700px;
+
+}
+
+#mainNav {
+	background-color: #fefded !important;
+}
+
+.navbar-toggler {
+	color: #262262;
+}
+    
+.navbar-brand {
+	font-family: Narnia;
+	font-size: 150%;
+	color: #e02228 !important;
+}
+
+.nav-item a:link {
+	font-family: Coco;
+	font-size: 110%;
+	color: #262262 !important;
+}
+
+.nav-item a:visited{
+	text-decoration: none;
+	color: #262262 !important;
+}
+
+.nav-item a:hover{ 
+	text-decoration: underline;
+	color: #e02228 !important;	
+
+}
+
+.nav-item a:active{ 
+	text-decoration:none;
+	color: #262262 !important;
+}
+
+
+h1 {
+	color: #e02228;
+	font-family: Narnia;
+	font-size: 700%;
+	text-align: center;
+	
+}
+
+#borderimg {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(squiggle.png);
+}
+
+.main_lead { 
+	color: #262262;
+	font-family: Coco;
+	font-size: 160%;
+
+}
+
+
+@font-face {
+	font-family:Coco;
+	src: url(Coco.ttf);
+}
+
+@font-face {
+	font-family: Narnia;
+	src: url(Narnia.ttf);
+}
+
+#about_me {
+	background-color: #262262;
+}
+
+.col-md-8 {
+	padding-left: 70px;
+}
+
+
+.intro_statement {
+	background-color: #fefded;
+	padding: 47px;
+	text-align: center;
+	font-family: Coco;
+	font-size: 130%;
+	color: #e02228;
+	border-width: 1px;
+	border-radius: 20px;
+	/*how do you make the textbox not expand all the way to edges*/
+}
+
+h2 {
+	color: #fefded;
+	font-family: Narnia;
+	font-size: 300%;
+}
+
+.lead {
+	color: #fefded;
+	font-family: Coco;
+}
+
+ul {
+	color: #fefded;
+	font-family: Coco;
+	line-height: 40px;
+}
+
+#red_pepper_pasta {
+	background-color: #f15f3e;
+
+}
+
+#zucchini_pasta {
+	background-color: #45671d;
+}
+
+#beans_rice {
+	background-color: #262262;
+}
+
+#green_noodles {
+	background-color: #005335;
+}
+
+#tuna_pasta {
+	background-color: #740e3f;
+}
+
+.images {
+	border-width: 20px;
+	border-color: #fefded;
+}
+
+#cat_photo {
+	border-width: 1px;
+	border-radius: 20px;
+}
+
+a {
+	color: #b7dce4;
+}
+
+a:visited {
+	color: #b7dce4;
+}
+
+a:hover {
+	color: #e02228;
+}
+
+#footer_section {
+	background-color: #fefded !important;
+}
+
+#copyright_text {
+	color: #262262 !important;
+}
+
